@@ -4,7 +4,7 @@
 
 To run this game, download the GitHub zip file or clone the repository. Then open a browser window and index.html file in the directory of your argade game.
 
-You can also play the game by visit this link:
+You can also play the game by visit this link: https://github.com/Rajeshvirola/Arcade-Game
   
 
 # How to play the game
